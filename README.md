@@ -9,8 +9,11 @@ Thank you for reading and any feedback is appreciated.
 
 Relevant links: 
 
-Data Source: https://www.kaggle.com/mathurinache/world-happiness-report?select=2015.csv
-World Happiness Report 2020: https://worldhappiness.report/ed/2020/#read
-World Happiness Report FAQ: https://worldhappiness.report/faq/
-Gallup's use Cantril Scale: https://news.gallup.com/poll/122453/understanding-gallup-uses-cantril-scale.aspx
+1. Data Source: https://www.kaggle.com/mathurinache/world-happiness-report?select=2015.csv
+
+2. World Happiness Report 2020: https://worldhappiness.report/ed/2020/#read
+
+3. World Happiness Report FAQ: https://worldhappiness.report/faq/
+
+4. Gallup's use Cantril Scale: https://news.gallup.com/poll/122453/understanding-gallup-uses-cantril-scale.aspx
 
