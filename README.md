@@ -5,6 +5,8 @@ The data for this project was taken from kaggle and is initially collected by Ga
 
 Furthermore, the report also groups the countries into three distinct classes (Thriving, Struggling, Suffering) based on their happiness score. The project, using K-Means clustering and PCA tries to cluster the countries into a similar category from the other metrics of the report. 
 
+![Cantril Scores World Map](/images/map.PNG)
+
 Thank you for reading and any feedback is appreciated. 
 
 Relevant links: 
